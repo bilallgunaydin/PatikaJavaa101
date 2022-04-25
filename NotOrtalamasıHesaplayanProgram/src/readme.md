@@ -1,0 +1,2 @@
+#Not Ortalaması Hesaplayan Program
+Java ile Matematik, Fizik, Kimya, Türkçe, Tarih, Müzik derslerinin sınav puanlarını kullanıcıdan alan ve ortalamasını hesaplayıp sınıfı geçip geçmediğini ekrana bastıran program yazıldı.
